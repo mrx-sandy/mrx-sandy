@@ -33,7 +33,7 @@ I'm always open to interesting projects and collaborations. If you have a projec
 
 - [LinkedIn](https://www.linkedin.com/in/sandip-gadekar-1601ab261/)
 - [Twitter](https://twitter.com/mrx_sandy)
-- [Email](mailto:sandipgadekar143@gmail.com)
+- [Email](mailto:sandipgadekar.work@gmail.com)
 - [YouTube](https://www.youtube.com/@mrx_sandy)
 
 ## 📈 GitHub Stats
