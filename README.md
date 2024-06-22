@@ -31,7 +31,7 @@ I believe in lifelong learning, and I'm currently focused on improving my skills
 
 I'm always open to interesting projects and collaborations. If you have a project in mind, want to chat, or just connect with fellow developers, feel free to reach out to me. You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/sandip-gadekar-1601ab261/)
+- [LinkedIn](https://www.linkedin.com/in/sandip-gadekar/)
 - [Twitter](https://twitter.com/mrx_sandy)
 - [Email](mailto:sandipgadekar.work@gmail.com)
 - [YouTube](https://www.youtube.com/@mrx_sandy)
